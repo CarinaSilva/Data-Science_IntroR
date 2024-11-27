@@ -20,6 +20,25 @@
 
 **Exercise 1** 
 
+ Use R operators to calculate: i)  (1198/2) - 63 + 27 and store the result in an object?
+
+
+<br/>
+
+<details><summary>Click Here to see the answer</summary><p>
+
+```{r}
+calc<- 1198/2-63+27
+
+```
+
+</p></details>
+
+<br/>
+<br/>
+
+**Exercise 2**
+
 Upload and install _MASS()_ and _xlsx()_ packages.
 <br/>
 
@@ -38,23 +57,6 @@ library(xlsx)
 ```
 
 </p></details>
-<br/>
-<br/>
-
-**Exercise 2** Use R operators to calculate: i)  (1198/2) - 63 + 27 and store the result in an object?
-
-
-<br/>
-
-<details><summary>Click Here to see the answer</summary><p>
-
-```{r}
-calc<- 1198/2-63+27
-
-```
-
-</p></details>
-
 <br/>
 <br/>
 
